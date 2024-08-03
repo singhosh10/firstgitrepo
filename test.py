@@ -1,3 +1,3 @@
 print("Wassup Buddy!! v9")
 
-printLove you sakshi darling")
+print("Love you sakshi darling")
